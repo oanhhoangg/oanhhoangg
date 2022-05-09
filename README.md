@@ -2,7 +2,6 @@
 - 👀 I’m interested in analysis
 - 🌱 I’m currently learning programming languages
 - 💞️ I’m looking to collaborate on analysis projects
-- 📫 How to reach me oanhhoang.rs@gmail.com
 
 <!---
 oanhhoangg/oanhhoangg is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
